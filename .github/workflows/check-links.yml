@@ -2,6 +2,7 @@ on:
   push:
   schedule:
     - cron: 0 8 * * 1 # run every week
+  pull_request:
     
 name: Broken Link Check
 jobs:
