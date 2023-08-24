@@ -43,9 +43,11 @@ A list of selected specifications in the OAuth &amp; OpenID spaces and where to 
 
 ### Related
 
+<!-- markdown-link-check-disable -->
 | **Name**                      | **Description** | **Working Group** | **Status** | **Links**                                                                                                                           |
 | ----------------------------- | --------------- | ----------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **DIF Presentation Exchange** |                 | DIF               | Draft      | [ED](https://identity.foundation/presentation-exchange/)&nbsp;[GH](https://github.com/decentralized-identity/presentation-exchange) |
+<!-- markdown-link-check-enable -->
 
 ## eKYC & Identity Assurance
 
