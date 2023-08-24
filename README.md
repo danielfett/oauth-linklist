@@ -55,6 +55,13 @@ A list of selected specifications in the OAuth &amp; OpenID spaces and where to 
 | **OpenID Connect Authority claims extension** |                 | OpenID eKYC & IDA | Working Group Draft   | [ED](https://openid.bitbucket.io/ekyc/openid-authority.html)&nbsp;[GH](https://bitbucket.org/openid/ekyc-ida/src/master/)                                                                                                                                                                                       |
 | **OpenID Connect Advanced Syntax for Claims (ASC)** |                | OpenID eKYC & IDA | Working Group Draft   | [ED](https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html)&nbsp;[GH](https://bitbucket.org/openid/ekyc-ida/src/master/)                                                                                                                                                                                       |
 
+## RFC6749 OAuth & Related
+
+| **Name**                                                                 | **Description** | **Working Group** | **Status**          | **Links**                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------ | --------------- | ----------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **OAuth 2.0 Security Best Current Practice**                            |                 | IETF OAuth        | Working Group Draft | [WD](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)&nbsp;[ED](https://oauthstuff.github.io/draft-ietf-oauth-security-topics/draft-ietf-oauth-security-topics.html)&nbsp;[GH](https://github.com/oauthstuff/draft-ietf-oauth-security-topics) |
+
+
 # Other Drafts
 
 * [IETF OAuth Datatracker](https://datatracker.ietf.org/wg/oauth/documents/)
