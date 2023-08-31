@@ -1,0 +1,131 @@
+- name: Verifiable Credentials (VC)
+  subsections:
+    - name: Credential Formats & Related Specifications
+      specs:
+        - name: SD-JWT
+          description: "Selective Disclosure for JWTs"
+          working_group: "IETF OAuth"
+          status: "Working Group Draft"
+          links:
+            WD: "https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-05.html"
+            ED: "https://oauth-wg.github.io/oauth-selective-disclosure-jwt/#go.draft-ietf-oauth-selective-disclosure-jwt.html"
+            Git: "https://github.com/oauth-wg/oauth-selective-disclosure-jwt"
+        - name: SD-JWT VC
+          description: "Verifiable Credentials with SD-JWT"
+          working_group: "IETF OAuth"
+          status: "Working Group Draft"
+          links:
+            WD: "https://datatracker.ietf.org/doc/html/draft-terbu-oauth-sd-jwt-vc"
+            ED: "https://vcstuff.github.io/draft-terbu-sd-jwt-vc/#go.draft-terbu-sd-jwt-vc.html"
+            Git: "https://github.com/vcstuff/draft-terbu-sd-jwt-vc"
+        - name: JWT and CWT Status List
+          description: "Status list mechanism for JWT and CWT credentials"
+          working_group: "IETF OAuth*"
+          status: "Individual Draft"
+          links:
+            ED: "https://vcstuff.github.io/draft-looker-oauth-jwt-cwt-status-list/#go.draft-looker-oauth-jwt-cwt-status-list.html"
+            InD: "https://datatracker.ietf.org/doc/html/draft-looker-oauth-jwt-cwt-status-list"
+
+    - name: Credential Issuance and Presentation
+      specs:
+        - name: OpenID for Verifiable Presentations
+          description: "OAuth 2.0-based mechanism for presentation of VCs"
+          working_group: "OpenID Connect"
+          status: "2nd Implementer's Draft"
+          links:
+            ImD: "https://openid.net/specs/openid-4-verifiable-presentations-1_0-ID2.html"
+            WD: "https://openid.net/specs/openid-4-verifiable-presentations-1_0.html"
+            ED: "https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-1_0.html"
+            Git: "https://bitbucket.org/openid/connect/src/master/"
+        - name: OpenID for VC Issuance
+          description: "OAuth 2.0-based authorization for VC issuance"
+          working_group: "OpenID Connect"
+          status: "Working Group Draft"
+          links:
+            WD: "https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html"
+            ED: "https://openid.bitbucket.io/connect/openid-4-verifiable-credential-issuance-1_0.html"
+            Git: "https://bitbucket.org/openid/connect/src/master/"
+        - name: Self-Issued OpenID Provider v2 (SIOPv2)
+          description: "Enables End-Users to use OpenID Providers (OPs) that they control"
+          working_group: "OpenID Connect"
+          status: "1st Implementer's Draft"
+          links:
+            WD: "https://openid.net/specs/openid-connect-self-issued-v2-1_0.html"
+            ED: "https://openid.bitbucket.io/connect/openid-connect-self-issued-v2-1_0.html"
+            Git: "https://bitbucket.org/openid/connect/src/master/"
+        - name: OpenID for Verifiable Presentations over BLE
+          description: "Using BLE for requesting the presentation of VCs"
+          working_group: "OpenID Connect"
+          status: "Working Group Draft"
+          links:
+            WD: "https://openid.net/specs/openid-4-verifiable-presentations-over-ble-1_0.html"
+            ED: "https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html"
+            Git: "https://bitbucket.org/openid/connect/src/master/"
+        - name: OpenID Connect UserInfo Verifiable Credentials
+          description: "UserInfo endpoint responses with Verifiable Credentials"
+          working_group: "OpenID Connect"
+          status: "Working Group Draft"
+          links:
+            WD: "https://openid.net/specs/openid-connect-userinfo-vc-1_0-00.html"
+            ED: "https://openid.bitbucket.io/connect/openid-connect-userinfo-vc-1_0.html"
+            Git: "https://bitbucket.org/openid/connect/src/master/"
+        - name: Security & Trust
+          description: "Structured Security Analysis"
+          working_group: "OpenID Connect*"
+          status: "Early Draft"
+          links:
+            ED: "https://vcstuff.github.io/oid4vc-security-and-trust/draft-oid4vc-security-and-trust.html"
+            Git: "https://github.com/vcstuff/oid4vc-security-and-trust"
+        - name: OAuth 2.0 Attestation-Based Client Authentication
+          description: ""
+          working_group: "IETF OAuth WG"
+          status: "Working Group Draft"
+          links:
+            ED: "https://vcstuff.github.io/draft-ietf-oauth-attestation-based-client-auth/draft-ietf-oauth-attestation-based-client-auth.html"
+            Git: "https://github.com/vcstuff/draft-ietf-oauth-attestation-based-client-auth"
+
+    - name: Profiles
+      specs:
+        - name: OpenID4VC High Assurance Interoperability Profile with SD-JWT VC
+          description: ""
+          working_group: "TBD"
+          status: "Draft"
+          links:
+            ED: "https://vcstuff.github.io/oid4vc-haip-sd-jwt-vc/#go.oid4vc-haip-sd-jwt-vc.html"
+            Git: "https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc"
+
+    - name: Related
+      specs:
+        - name: DIF Presentation Exchange
+          description: ""
+          working_group: "DIF"
+          status: "Draft"
+          links:
+            ED: "https://identity.foundation/presentation-exchange/"
+            Git: "https://github.com/decentralized-identity/presentation-exchange"
+
+- name: eKYC & Identity Assurance
+  subsections:
+    - name: Main
+      specs:
+        - name: OpenID Connect for Identity Assurance 1.0
+          description: ""
+          working_group: "OpenID eKYC & IDA"
+          status: "Implementer's Draft 4"
+          links:
+            ImD: "https://openid.net/specs/openid-connect-4-identity-assurance-1_0-ID4.html"
+            WD: "https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html"
+            ED: "https://openid.bitbucket.io/connect/openid-connect-4-identity-assurance-1_0.html"
+            Git: "https://bitbucket.org/openid/connect/src/master/"
+            
+- name: RFC6749 OAuth & Related
+  subsections:
+    - name: Main
+      specs:
+        - name: OAuth 2.0
+          description: ""
+          working_group: "IETF OAuth"
+          status: "RFC6749"
+          links:
+            RFC: "https://datatracker.ietf.org/doc/html/rfc6749"
+            Git: "https://github.com/oauthstuff/rfc6749"
