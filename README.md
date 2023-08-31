@@ -2,6 +2,8 @@
 
 A list of selected specifications in the OAuth &amp; OpenID spaces and where to find them.
 
+Please send a PR if something is wrong or missing!
+
 <details>
 <summary>Abbreviations/key:</summary>
 
