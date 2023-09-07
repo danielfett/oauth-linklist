@@ -3,7 +3,7 @@ name: Check Markdown links
 on: 
   push:
     branches:
-      - master
+      - main
   schedule:
   # Run everyday at 9 am
   - cron: "0 9 * * *"
