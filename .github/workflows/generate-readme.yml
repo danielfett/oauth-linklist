@@ -26,7 +26,7 @@ jobs:
         python generate.py
     - name: Commit changes
       run: |
-        git checkout master
+        git checkout main
         mv output.md README.md
         git config --local user.email "github@danielfett.de"
         git config --local user.name "GitHub Action"
