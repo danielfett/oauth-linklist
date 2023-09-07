@@ -1,3 +1,8 @@
+<!---
+
+This file is generated automatically, do not modify!
+
+--->
 # OAuth & OpenID Link List
 
 A list of selected specifications in the OAuth &amp; OpenID spaces and where to find them.
