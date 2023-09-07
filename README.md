@@ -19,6 +19,8 @@ A list of selected specifications in the OAuth &amp; OpenID spaces and where to 
 *&nbsp;marks a status that is not yet official, under discussion, or proposed.
 </details>
 
+To propose an addition/modification, please send a pull request against the `data.yml` file in the `source` branch.
+
 # Verifiable Credentials (VC)
 
 ## Credential Formats & Related Specifications
@@ -70,6 +72,15 @@ A list of selected specifications in the OAuth &amp; OpenID spaces and where to 
 | **OpenID Connect Advanced Syntax for Claims (ASC)** | Syntax extensions for OIDC claim requests | OpenID eKYC & IDA | Working Group Draft | [ED](https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
 
 
+
+
+# OpenID FAPI 2.0
+
+| **Name** | **Description** | **Working Group** | **Status** | **Links** |
+| --- | --- | --- | --- | --- |
+| **FAPI 2.0 Attacker Model** |  | OpenID FAPI | Implementer's Draft 2 | [ImD](https://openid.net/specs/fapi-2_0-attacker-model-ID2.html)&nbsp;[ED](https://openid.bitbucket.io/fapi/fapi-2_0-attacker-model.html)&nbsp;[Git](https://bitbucket.org/openid/fapi/src/master/) |
+| **FAPI 2.0 Security Profile** |  | OpenID FAPI | Implementer's Draft 2 | [ImD](https://openid.net/specs/fapi-2_0-security-profile-ID2.html)&nbsp;[ED](https://openid.bitbucket.io/fapi/fapi-2_0-security-profile.html)&nbsp;[Git](https://bitbucket.org/openid/fapi/src/master/) |
+| **FAPI 2.0 Message Signing** |  | OpenID FAPI | Working Group Draft | [ED](https://openid.bitbucket.io/fapi/fapi-2_0-message-signing.html)&nbsp;[Git](https://bitbucket.org/openid/fapi/src/master/) |
 
 
 # RFC6749 OAuth & Related
