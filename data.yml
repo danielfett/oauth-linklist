@@ -125,6 +125,12 @@
             ED: "https://openid.bitbucket.io/ekyc/openid-authority.html"
             Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
         - name: OpenID Connect Advanced Syntax for Claims (ASC)
+          description: "Syntax extensions for OIDC claim requests"
+          working_group: "OpenID eKYC & IDA"
+          status: "Working Group Draft"
+          links:
+            ED: "https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html"
+            Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
           
 
 - name: RFC6749 OAuth & Related
