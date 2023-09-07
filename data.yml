@@ -136,6 +136,7 @@
 - name: OpenID FAPI 2.0
   specs:
     - name: FAPI 2.0 Attacker Model
+      description: ""
       status: "Implementer's Draft 2"
       working_group: "OpenID FAPI"
       links:
@@ -143,6 +144,7 @@
         ED: "https://openid.bitbucket.io/fapi/fapi-2_0-attacker-model.html"
         Git: "https://bitbucket.org/openid/fapi/src/master/"
     - name: FAPI 2.0 Security Profile
+      description: ""
       status: "Implementer's Draft 2"
       working_group: "OpenID FAPI"
       links:
@@ -150,6 +152,7 @@
         ED: "https://openid.bitbucket.io/fapi/fapi-2_0-security-profile.html"
         Git: "https://bitbucket.org/openid/fapi/src/master/"
     - name: FAPI 2.0 Message Signing
+      description: ""
       status: "Working Group Draft"
       working_group: "OpenID FAPI"
       links:
