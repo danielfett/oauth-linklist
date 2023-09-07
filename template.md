@@ -19,6 +19,8 @@ A list of selected specifications in the OAuth &amp; OpenID spaces and where to 
 *&nbsp;marks a status that is not yet official, under discussion, or proposed.
 </details>
 
+To propose an addition/modification, please send a pull request against the `data.yml` file in the `source` branch.
+
 {{specs}}
  
 # Other Drafts

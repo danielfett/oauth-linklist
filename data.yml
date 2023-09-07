@@ -133,6 +133,29 @@
             Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
           
 
+- name: OpenID FAPI 2.0
+  specs:
+    - name: FAPI 2.0 Attacker Model
+      status: "Implementer's Draft 2"
+      working_group: "OpenID FAPI"
+      links:
+        ImD: "https://openid.net/specs/fapi-2_0-attacker-model-ID2.html"
+        ED: "https://openid.bitbucket.io/fapi/fapi-2_0-attacker-model.html"
+        Git: "https://bitbucket.org/openid/fapi/src/master/"
+    - name: FAPI 2.0 Security Profile
+      status: "Implementer's Draft 2"
+      working_group: "OpenID FAPI"
+      links:
+        ImD: "https://openid.net/specs/fapi-2_0-security-profile-ID2.html"
+        ED: "https://openid.bitbucket.io/fapi/fapi-2_0-security-profile.html"
+        Git: "https://bitbucket.org/openid/fapi/src/master/"
+    - name: FAPI 2.0 Message Signing
+      status: "Working Group Draft"
+      working_group: "OpenID FAPI"
+      links:
+        ED: "https://openid.bitbucket.io/fapi/fapi-2_0-message-signing.html"
+        Git: "https://bitbucket.org/openid/fapi/src/master/"
+
 - name: RFC6749 OAuth & Related
   subsections:
     - name: Main
