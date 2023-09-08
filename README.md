@@ -92,6 +92,13 @@ To propose an addition/modification, please send a pull request against the `dat
 | **OAuth 2.0** |  | IETF OAuth | RFC6749 | [RFC](https://datatracker.ietf.org/doc/html/rfc6749)&nbsp;[Git](https://github.com/oauthstuff/rfc6749) |
 
 
+## BCPs
+
+| **Name** | **Description** | **Working Group** | **Status** | **Links** |
+| --- | --- | --- | --- | --- |
+| **Cross-Device Flows: Security Best Current Practice** | describes threats against cross-device flows and mitigations | IETF OAuth | Working Group Draft | [WG](https://www.ietf.org/archive/id/draft-ietf-oauth-cross-device-security-02.html)&nbsp;[ED](https://drafts.oauth.net/oauth-cross-device-security/draft-ietf-oauth-cross-device-security.html)&nbsp;[Git](https://github.com/oauth-wg/oauth-cross-device-security) |
+
+
 
 
 
