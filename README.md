@@ -97,6 +97,7 @@ To propose an addition/modification, please send a pull request against the `dat
 | **Name** | **Description** | **Working Group** | **Status** | **Links** |
 | --- | --- | --- | --- | --- |
 | **Cross-Device Flows: Security Best Current Practice** | describes threats against cross-device flows and mitigations | IETF OAuth | Working Group Draft | [WG](https://www.ietf.org/archive/id/draft-ietf-oauth-cross-device-security-02.html)&nbsp;[ED](https://drafts.oauth.net/oauth-cross-device-security/draft-ietf-oauth-cross-device-security.html)&nbsp;[Git](https://github.com/oauth-wg/oauth-cross-device-security) |
+| **OAuth 2.0 Security Best Current Practice** | describes security threats against OAuth 2.0 deployments and mitigations | IETF OAuth | Working Group Draft | [WG](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)&nbsp;[ED](https://oauthstuff.github.io/draft-ietf-oauth-security-topics/draft-ietf-oauth-security-topics.html)&nbsp;[Git](https://github.com/oauthstuff/draft-ietf-oauth-security-topics) |
 
 
 
