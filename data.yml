@@ -179,4 +179,12 @@
             WG: https://www.ietf.org/archive/id/draft-ietf-oauth-cross-device-security-02.html
             ED: https://drafts.oauth.net/oauth-cross-device-security/draft-ietf-oauth-cross-device-security.html
             Git: https://github.com/oauth-wg/oauth-cross-device-security
+        - name: "OAuth 2.0 Security Best Current Practice"
+          description: "describes security threats against OAuth 2.0 deployments and mitigations"
+          working_group: "IETF OAuth"
+          status: "Working Group Draft"
+          links:
+            WG: https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics
+            ED: https://oauthstuff.github.io/draft-ietf-oauth-security-topics/draft-ietf-oauth-security-topics.html
+            Git: https://github.com/oauthstuff/draft-ietf-oauth-security-topics
             
