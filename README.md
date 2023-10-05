@@ -69,8 +69,8 @@ To propose an addition/modification, please send a pull request against the `dat
 | --- | --- | --- | --- | --- |
 | **OpenID Connect for Identity Assurance 1.0** | Identity Assurance ID4 | OpenID eKYC & IDA | Implementer's Draft 4 | [ImD](https://openid.net/specs/openid-connect-4-identity-assurance-1_0-ID4.html)&nbsp;[WD](https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html)&nbsp;[ED](https://openid.bitbucket.io/connect/openid-connect-4-identity-assurance-1_0.html)&nbsp;[Git](https://bitbucket.org/openid/connect/src/master/) |
 | **OpenID Identity Assurance schema definition** | Separated Schema definition document for IDA | OpenID eKYC & IDA | Working Group Draft | [WD](https://openid.bitbucket.io/ekyc/openid-ida-verified-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
-| **OpenID Connect Authority claims extension** | JSON schema spec for representation of on-behalf-of | OpenID eKYC & IDA | Working Group Draft | [ED](https://openid.bitbucket.io/ekyc/openid-authority.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
-| **OpenID Connect Advanced Syntax for Claims (ASC)** | Syntax extensions for OIDC claim requests | OpenID eKYC & IDA | Working Group Draft | [ED](https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
+| **OpenID Connect Authority claims extension** | JSON schema spec for representation of on-behalf-of | OpenID eKYC & IDA | Working Group Draft | [WD](https://openid.bitbucket.io/ekyc/openid-authority.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
+| **OpenID Connect Advanced Syntax for Claims (ASC)** | Syntax extensions for OIDC claim requests | OpenID eKYC & IDA | Working Group Draft | [WD](https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
 
 
 
