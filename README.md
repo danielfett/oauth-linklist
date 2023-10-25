@@ -28,8 +28,8 @@ To propose an addition/modification, please send a pull request against the `dat
 | **Name** | **Description** | **Working Group** | **Status** | **Links** |
 | --- | --- | --- | --- | --- |
 | **SD-JWT** | Selective Disclosure for JWTs | IETF OAuth | Working Group Draft | [WD](https://www.ietf.org/archive/id/draft-ietf-oauth-selective-disclosure-jwt-05.html)&nbsp;[ED](https://oauth-wg.github.io/oauth-selective-disclosure-jwt/#go.draft-ietf-oauth-selective-disclosure-jwt.html)&nbsp;[Git](https://github.com/oauth-wg/oauth-selective-disclosure-jwt) |
-| **SD-JWT VC** | Verifiable Credentials with SD-JWT | IETF OAuth | Working Group Draft | [WD](https://datatracker.ietf.org/doc/html/draft-terbu-oauth-sd-jwt-vc)&nbsp;[ED](https://vcstuff.github.io/draft-terbu-sd-jwt-vc/#go.draft-terbu-sd-jwt-vc.html)&nbsp;[Git](https://github.com/vcstuff/draft-terbu-sd-jwt-vc) |
-| **JWT and CWT Status List** | Status list mechanism for JWT and CWT credentials | IETF OAuth* | Individual Draft | [ED](https://vcstuff.github.io/draft-looker-oauth-jwt-cwt-status-list/#go.draft-looker-oauth-jwt-cwt-status-list.html)&nbsp;[InD](https://datatracker.ietf.org/doc/html/draft-looker-oauth-jwt-cwt-status-list) |
+| **SD-JWT VC** | Verifiable Credentials with SD-JWT | IETF OAuth | Working Group Draft | [WD](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-sd-jwt-vc)&nbsp;[ED](https://oauth-wg.github.io/oauth-sd-jwt-vc/#go.draft-ietf-oauth-sd-jwt-vc.html)&nbsp;[Git](https://github.com/oauth-wg/oauth-sd-jwt-vc) |
+| **JWT and CWT Status List** | Status list mechanism for JWT and CWT credentials | IETF OAuth* | Individual Draft | [ED](https://vcstuff.github.io/draft-ietf-oauth-status-list/#go.draft-ietf-oauth-status-list.html)&nbsp;[InD](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-status-list)&nbsp;[Git](https://github.com/vcstuff/draft-ietf-oauth-status-list) |
 
 
 ## Credential Issuance and Presentation
@@ -41,7 +41,7 @@ To propose an addition/modification, please send a pull request against the `dat
 | **Self-Issued OpenID Provider v2 (SIOPv2)** | Enables End-Users to use OpenID Providers (OPs) that they control | OpenID Connect | 1st Implementer's Draft | [WD](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)&nbsp;[ED](https://openid.bitbucket.io/connect/openid-connect-self-issued-v2-1_0.html)&nbsp;[Git](https://bitbucket.org/openid/connect/src/master/) |
 | **OpenID for Verifiable Presentations over BLE** | Using BLE for requesting the presentation of VCs | OpenID Connect | Working Group Draft | [WD](https://openid.net/specs/openid-4-verifiable-presentations-over-ble-1_0.html)&nbsp;[ED](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html)&nbsp;[Git](https://bitbucket.org/openid/connect/src/master/) |
 | **OpenID Connect UserInfo Verifiable Credentials** | UserInfo endpoint responses with Verifiable Credentials | OpenID Connect | Working Group Draft | [WD](https://openid.net/specs/openid-connect-userinfo-vc-1_0-00.html)&nbsp;[ED](https://openid.bitbucket.io/connect/openid-connect-userinfo-vc-1_0.html)&nbsp;[Git](https://bitbucket.org/openid/connect/src/master/) |
-| **Security & Trust** | Structured Security Analysis | OpenID Connect* | Early Draft | [ED](https://vcstuff.github.io/oid4vc-security-and-trust/draft-oid4vc-security-and-trust.html)&nbsp;[Git](https://github.com/vcstuff/oid4vc-security-and-trust) |
+| **Security and Trust in OpenID for Verifiable Credentials Ecosystems** | Structured Security Analysis | OpenID DCP* | Working Group Draft | [Git](https://github.com/openid/OpenID4VC_SecTrust) |
 | **OAuth 2.0 Attestation-Based Client Authentication** |  | IETF OAuth WG | Working Group Draft | [ED](https://vcstuff.github.io/draft-ietf-oauth-attestation-based-client-auth/draft-ietf-oauth-attestation-based-client-auth.html)&nbsp;[Git](https://github.com/vcstuff/draft-ietf-oauth-attestation-based-client-auth) |
 
 
@@ -67,10 +67,10 @@ To propose an addition/modification, please send a pull request against the `dat
 
 | **Name** | **Description** | **Working Group** | **Status** | **Links** |
 | --- | --- | --- | --- | --- |
-| **OpenID Connect for Identity Assurance 1.0** | Identity Assurance ID4 | OpenID eKYC & IDA | Implementer's Draft 4 | [ImD](https://openid.net/specs/openid-connect-4-identity-assurance-1_0-ID4.html)&nbsp;[WD](https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html)&nbsp;[ED](https://openid.bitbucket.io/connect/openid-connect-4-identity-assurance-1_0.html)&nbsp;[Git](https://bitbucket.org/openid/connect/src/master/) |
-| **OpenID Identity Assurance schema definition** | Separated Schema definition document for IDA | OpenID eKYC & IDA | Working Group Draft | [WD](https://openid.bitbucket.io/ekyc/openid-ida-verified-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
-| **OpenID Connect Authority claims extension** | JSON schema spec for representation of on-behalf-of | OpenID eKYC & IDA | Working Group Draft | [WD](https://openid.bitbucket.io/ekyc/openid-authority.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
-| **OpenID Connect Advanced Syntax for Claims (ASC)** | Syntax extensions for OIDC claim requests | OpenID eKYC & IDA | Working Group Draft | [WD](https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
+| **OpenID Connect for Identity Assurance 1.0** |  | OpenID eKYC & IDA | Implementer's Draft 4 | [ImD](https://openid.net/specs/openid-connect-4-identity-assurance-1_0-ID4.html)&nbsp;[WD](https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html)&nbsp;[ED](https://openid.bitbucket.io/connect/openid-connect-4-identity-assurance-1_0.html)&nbsp;[Git](https://bitbucket.org/openid/connect/src/master/) |
+| **OpenID Connect Authority claims extension** |  | OpenID eKYC & IDA | Implementer's Draft 1 | [ED](https://openid.bitbucket.io/ekyc/openid-authority.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
+| **OpenID Connect Advanced Syntax for Claims (ASC)** | Syntax extensions for OIDC claim requests | OpenID eKYC & IDA | Working Group Draft | [ED](https://openid.bitbucket.io/ekyc/openid-connect-advanced-syntax-for-claims.html)&nbsp;[Git](https://bitbucket.org/openid/ekyc-ida/src/master/) |
+
 
 
 
