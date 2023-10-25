@@ -109,20 +109,41 @@
     - name: Main
       specs:
         - name: OpenID Connect for Identity Assurance 1.0
-          description: ""
+          description: "OpenID eKYC & IDA"
           working_group: "OpenID eKYC & IDA"
           status: "Implementer's Draft 4"
           links:
             ImD: "https://openid.net/specs/openid-connect-4-identity-assurance-1_0-ID4.html"
             WD: "https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html"
-            ED: "https://openid.bitbucket.io/connect/openid-connect-4-identity-assurance-1_0.html"
-            Git: "https://bitbucket.org/openid/connect/src/master/"
+            ED: "https://openid.bitbucket.io/ekyc/openid-connect-4-identity-assurance.html"
+            Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
+        - name: OpenID Identity Assurance Schema Definition 1.0
+          description: "Separated Schema definition document for IDA"
+          working_group: "OpenID eKYC & IDA"
+          status: "Working Group Draft"
+          links:
+            ED: "https://openid.bitbucket.io/ekyc/openid-ida-verified-claims.html"
+            Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
         - name: OpenID Connect Authority claims extension
           description: ""
           working_group: "OpenID eKYC & IDA"
           status: "Implementer's Draft 1"
           links:
             ED: "https://openid.bitbucket.io/ekyc/openid-authority.html"
+            Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
+        - name: OpenID Connect for Identity Assurance Claims Registration 1.0
+          description: ""
+          working_group: "OpenID eKYC & IDA"
+          status: "Implementer's Draft 1"
+          links:
+            ED: "https://openid.bitbucket.io/ekyc/openid-connect-4-ida-claims.html"
+            Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
+        - name: OpenID Attachments 1.0
+          description: ""
+          working_group: "OpenID eKYC & IDA"
+          status: "Implementer's Draft 1"
+          links:
+            ED: "https://openid.bitbucket.io/ekyc/openid-connect-4-ida-attachments.html"
             Git: "https://bitbucket.org/openid/ekyc-ida/src/master/"
         - name: OpenID Connect Advanced Syntax for Claims (ASC)
           description: "Syntax extensions for OIDC claim requests"
