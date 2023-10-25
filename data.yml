@@ -15,16 +15,17 @@
           working_group: "IETF OAuth"
           status: "Working Group Draft"
           links:
-            WD: "https://datatracker.ietf.org/doc/html/draft-terbu-oauth-sd-jwt-vc"
-            ED: "https://vcstuff.github.io/draft-terbu-sd-jwt-vc/#go.draft-terbu-sd-jwt-vc.html"
-            Git: "https://github.com/vcstuff/draft-terbu-sd-jwt-vc"
+            WD: "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-sd-jwt-vc"
+            ED: "https://oauth-wg.github.io/oauth-sd-jwt-vc/#go.draft-ietf-oauth-sd-jwt-vc.html"
+            Git: "https://github.com/oauth-wg/oauth-sd-jwt-vc"
         - name: JWT and CWT Status List
           description: "Status list mechanism for JWT and CWT credentials"
           working_group: "IETF OAuth*"
           status: "Individual Draft"
           links:
-            ED: "https://vcstuff.github.io/draft-looker-oauth-jwt-cwt-status-list/#go.draft-looker-oauth-jwt-cwt-status-list.html"
-            InD: "https://datatracker.ietf.org/doc/html/draft-looker-oauth-jwt-cwt-status-list"
+            ED: "https://vcstuff.github.io/draft-ietf-oauth-status-list/#go.draft-ietf-oauth-status-list.html"
+            InD: "https://datatracker.ietf.org/doc/html/draft-ietf-oauth-status-list"
+            Git: "https://github.com/vcstuff/draft-ietf-oauth-status-list"
 
     - name: Credential Issuance and Presentation
       specs:
@@ -69,13 +70,12 @@
             WD: "https://openid.net/specs/openid-connect-userinfo-vc-1_0-00.html"
             ED: "https://openid.bitbucket.io/connect/openid-connect-userinfo-vc-1_0.html"
             Git: "https://bitbucket.org/openid/connect/src/master/"
-        - name: Security & Trust
+        - name: Security and Trust in OpenID for Verifiable Credentials Ecosystems
           description: "Structured Security Analysis"
-          working_group: "OpenID Connect*"
-          status: "Early Draft"
+          working_group: "OpenID DCP*"
+          status: "Working Group Draft"
           links:
-            ED: "https://vcstuff.github.io/oid4vc-security-and-trust/draft-oid4vc-security-and-trust.html"
-            Git: "https://github.com/vcstuff/oid4vc-security-and-trust"
+            Git: "https://github.com/openid/OpenID4VC_SecTrust"
         - name: OAuth 2.0 Attestation-Based Client Authentication
           description: ""
           working_group: "IETF OAuth WG"
