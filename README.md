@@ -92,7 +92,7 @@ To propose an addition/modification, please send a pull request against the `dat
 
 | **Name** | **Description** | **Working Group** | **Status** | **Links** |
 | --- | --- | --- | --- | --- |
-| **OAuth 2.0** |  | IETF OAuth | RFC6749 | [RFC](https://datatracker.ietf.org/doc/html/rfc6749)&nbsp;[Git](https://github.com/oauthstuff/rfc6749) |
+| **OAuth 2.0** |  | IETF OAuth | RFC6749 | [RFC](https://datatracker.ietf.org/doc/html/rfc6749) |
 
 
 ## BCPs
