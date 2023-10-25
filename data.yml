@@ -189,7 +189,6 @@
           status: "RFC6749"
           links:
             RFC: "https://datatracker.ietf.org/doc/html/rfc6749"
-            Git: "https://github.com/oauthstuff/rfc6749"
     - name: BCPs
       specs:
         - name: "Cross-Device Flows: Security Best Current Practice"
